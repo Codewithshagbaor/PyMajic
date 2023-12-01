@@ -1,5 +1,5 @@
 # PyMajic: Crafting Python Projects, One Command at a Time!
-![PyMajic Logo](https://github.com/Codewithshagbaor/PyMajic/assets/67190277/7063ba42-38c4-483e-8a37-4e4d5663d5cd)
+![PyMajic Logo](https://github.com/Codewithshagbaor/PyMajic/assets/67190277/49fbfa2c-214c-4278-9622-9088b56fc839)
 PyMajic is a Python package that simplifies working with Django projects by providing convenient commands for environment management, custom commands, and more.
 
 ## Installation
