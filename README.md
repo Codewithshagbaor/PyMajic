@@ -106,6 +106,11 @@ Set aliases for your custom commands:
 set alias <alias_name> <your_custom_command>
 ```
 
+### Documentation Command
+
+```bash
+pymajic documentation
+```
 ## Contributing
 
 Contributions are welcome! If you have any ideas, bug reports, or feature requests, please open an issue or submit a pull request.
