@@ -1,0 +1,11 @@
+[console_scripts]
+pymajic = pymajic.store:main
+pymajic backup database = pymajic.store:backup_database
+pymajic check update = pymajic.store:check_update
+pymajic documentation = pymajic.store:documentation
+pymajic edit config = pymajic.store:edit_config
+pymajic interactive = pymajic.store:interactive_mode
+pymajic project info = pymajic.store:project_info
+pymajic restore database = pymajic.store:restore_database
+pymajic set alias = pymajic.store:set_alias
+pymajic shell = pymajic.store:django_shell

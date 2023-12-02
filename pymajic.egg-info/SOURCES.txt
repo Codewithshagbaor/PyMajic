@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pymajic/__init__.py
+pymajic/store.py
+pymajic.egg-info/PKG-INFO
+pymajic.egg-info/SOURCES.txt
+pymajic.egg-info/dependency_links.txt
+pymajic.egg-info/entry_points.txt
+pymajic.egg-info/requires.txt
+pymajic.egg-info/top_level.txt
