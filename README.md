@@ -103,7 +103,7 @@ pymajic interactive mode
 Set aliases for your custom commands:
 
 ```bash
-pymajic set alias <alias_name> <your_custom_command>
+set alias <alias_name> <your_custom_command>
 ```
 
 ## Contributing
